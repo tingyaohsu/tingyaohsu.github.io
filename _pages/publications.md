@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Posters and Extended Abstracts
 
-<b>[On How Users Edit Computer-Generated Visual Stories](/publication/CHI-LBW-2019)</b><br>
+<b>[On How Users Edit Computer-Generated Visual Stories](/publication/CHI-lbw-2019)</b><br>
 <b>Ting-Yao Hsu</b>, Yen-Chia Hsu, and Ting-Hao K. Huang. <b><i>(CHI LBW 2019)</i></b>.<br>
 [[arXiv]](https://arxiv.org/abs/1902.08327)
 
