@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  # username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ting-Yao Hsu"
   avatar           : "edward_profile.jpg"
-  bio              : "Deep Learning, Natural Language Processing, Human–Computer Interaction"
+  bio              : "Deep Learning, Natural Language Processing, CrowdSourcing"
   location         : 
   employer         :
   pubmed           : 
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "pan.chunyao"
   foursquare       :
   github           : "tingyaohsu"
   google_plus      :
