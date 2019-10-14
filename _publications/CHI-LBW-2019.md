@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CHI-lbw-2019
 excerpt: 
 date: 2019-02-08
-venue: 'In CHI'19 Late-Breaking Work on Human Factors in Computing Systems (CHI LBW 2019)'
+venue: 'In CHI 19 Late-Breaking Work on Human Factors in Computing Systems (CHI LBW 2019)'
 paperurl: 
 citation:
 ---
