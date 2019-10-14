@@ -13,7 +13,7 @@ name                     : &name "Edward Hsu"
 description              : &description "M.S. student at Penn State"
 url                      : https://tingyaohsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tingyaohsu/tingyaohsu.github.io"
+repository               : "tingyaohsu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
