@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=rewH-4oAAAAJ&hl=en}">Google Scholar </a>profile.</u>
+You can also find my articles on <a href="https://scholar.google.com/citations?user=rewH-4oAAAAJ&hl=en">Google Scholar</a>profile.
 
 ## Conference Papers
 
-<b>[Visual Story Post-Editing](/publications/ACL-short-2019)</b> <br>
-Ting-Yao Hsu, Chieh-Yang Huang, Yen-Chia Hsu, and Ting-Hao K. Huang. <i>ACL 2019 (short)</i>. 
+<b>[Visual Story Post-Editing](/publication/ACL-short-2019)</b><br>
+<b>Ting-Yao Hsu</b>, Chieh-Yang Huang, Yen-Chia Hsu, and Ting-Hao K. Huang. <b><i>ACL 2019 (short)</i></b>.<br>
 [[arxiv]](https://arxiv.org/abs/1906.01764)[[ACL Anthology]](https://www.aclweb.org/anthology/P19-1658/)[[Github]](https://github.com/tingyaohsu/VIST-Edit)
 
 
