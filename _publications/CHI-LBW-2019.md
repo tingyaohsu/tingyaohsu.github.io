@@ -1,12 +1,12 @@
 ---
 title: "On How Users Edit Computer-Generated Visual Stories"
 collection: publications
-permalink: /publication/CHI-lbw-2019
+permalink: /publication/ACL-short-2019
 excerpt: 
 date: 2019-02-08
 venue: 'In CHI 19 Late-Breaking Work on Human Factors in Computing Systems (CHI LBW 2019)'
 paperurl: 
-citation:
+citation: 
 ---
 
 [[arXiv]](https://arxiv.org/abs/1902.08327)
