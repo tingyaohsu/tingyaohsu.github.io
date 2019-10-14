@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "On How Users Edit Computer-Generated Visual Stories"
 collection: publications
 permalink: /publication/CHI-LBW-2019
 excerpt:
-date: 2019-10-01
+date: 2019-02-08
 venue: 'In CHI'19 Late-Breaking Work on Human Factors in Computing Systems'
 paperurl: 
 citation:
