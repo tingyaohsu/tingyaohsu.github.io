@@ -1,5 +1,5 @@
 ---
-title: "Visual Story Post-Editing"
+title: "On How Users Edit Computer-Generated Visual Stories"
 collection: publications
 permalink: /publication/ACL-short-2019
 excerpt: 
