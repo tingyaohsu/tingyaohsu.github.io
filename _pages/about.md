@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year M.S. student in Computer Science and Engineering at Penn State University, advised by [Dr. C. Lee Giles](https://clgiles.ist.psu.edu) and [Dr. Kenneth Huang](https://crowd.ist.psu.edu). My research mainly focuses on Deep Learning, and Natural Language Processing, CrowdSourcing.
+I am currently a M.S. student in [Computer Science and Engineering](https://www.eecs.psu.edu) at [Penn State University](https://www.psu.edu), advised by [Prof. C. Lee Giles](https://clgiles.ist.psu.edu) and [Prof. Kenneth Huang](https://crowd.ist.psu.edu). My research mainly focuses on Deep Learning, and Natural Language Processing, CrowdSourcing. 
+<br>
+Prior to join PSU, I worked with [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/bin/home.php), [Dr. Yuan-Hao Chang](https://www.iis.sinica.edu.tw/pages/johnson/index_en.html) at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html).
 
 ## News
 * I will attend ACL 2019 @Florence, Italy.
 * Our short paper, [Visual Story Post-Editing](https://arxiv.org/abs/1906.01764), has been accepted by ACL 2019.
+* I will attend CHI 2019 @Glasgow, UK.
 * Our poster, [On How Users Edit Computer-Generated Visual Stories](https://arxiv.org/abs/1902.08327), has been accepted by CHI LBW 2019.
