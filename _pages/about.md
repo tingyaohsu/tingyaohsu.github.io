@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a M.S. student in [Computer Science and Engineering](https://www.eecs.psu.edu) at [Penn State University](https://www.psu.edu), advised by [Prof. C. Lee Giles](https://clgiles.ist.psu.edu) and [Prof. Kenneth Huang](https://crowd.ist.psu.edu). My research mainly focuses on Deep Learning, and Natural Language Processing, CrowdSourcing. 
-<br>
+<br><br>
 Prior to join PSU, I worked with [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/bin/home.php), [Dr. Yuan-Hao Chang](https://www.iis.sinica.edu.tw/pages/johnson/index_en.html) at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html).
 
 ## News
