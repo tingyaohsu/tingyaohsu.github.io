@@ -20,6 +20,8 @@ Hello! I am a final-year Ph.D. candidate at Penn State University working across
 
 My research goal is to develop interactive and intelligent systems that enhance everyday human activities. Currently, I am focusing on tasks that integrate vision and language, involving understanding, generation, and evaluation through multimodal learning and Large Language Models (LLMs). I am also interested in improving multimodal/LLM agents and alignment to optimize human-machine interactions.
 
+<span style="color: red;">I am currently on the job market and looking for full-time industry positions.</span>.
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
